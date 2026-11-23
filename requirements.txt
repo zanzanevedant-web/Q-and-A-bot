@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+rank-bm25
+faiss-cpu
+beautifulsoup4
+requests
